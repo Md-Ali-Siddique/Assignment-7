@@ -1,0 +1,179 @@
+[
+  {
+    "playerId": 1,
+    "name": "Virat Kohli",
+    "country": "India",
+    "image": "/Players/Virat.webp",
+    "role": "Batsman",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm medium",
+    "biddingPrice": 2000000,
+    "rating": 90
+  },
+  {
+    "playerId": 2,
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "image": "/Players/Bumrah.jpg",
+    "role": "Bowler",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm fast",
+    "biddingPrice": 1900000,
+    "rating": 88
+  },
+  {
+    "playerId": 3,
+    "name": "Steve Smith",
+    "country": "Australia",
+    "image": "/Players/Smith.jpg",
+    "role": "Batsman",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm offbreak",
+    "biddingPrice": 1800000,
+    "rating": 89
+  },
+  {
+    "playerId": 4,
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "image": "/Players/Kane.webp",
+    "role": "Batsman",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm offbreak",
+    "biddingPrice": 1700000,
+    "rating": 86
+  },
+  {
+    "playerId": 5,
+    "name": "Ben Stokes",
+    "country": "England",
+    "image": "/Players/Ben-Stokes-.jpg",
+    "role": "All-rounder",
+    "battingType": "Left-handed",
+    "bowlingType": "Right-arm fast-medium",
+    "biddingPrice": 2200000,
+    "rating": 87
+  },
+  {
+    "playerId": 6,
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "image": "/Players/Babar.jpg",
+    "role": "Batsman",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm medium",
+    "biddingPrice": 1850000,
+    "rating": 89
+  },
+  {
+    "playerId": 7,
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "image": "/Players/Shakib-Al-Hasan-.jpg",
+    "role": "All-rounder",
+    "battingType": "Left-handed",
+    "bowlingType": "Slow left-arm orthodox",
+    "biddingPrice": 1500000,
+    "rating": 81
+  },
+  {
+    "playerId": 8,
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "image": "/Players/Rashid-Khan.jpg",
+    "role": "Bowler",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm legbreak",
+    "biddingPrice": 1600000,
+    "rating": 85
+  },
+  {
+    "playerId": 9,
+    "name": "Quinton de Kock",
+    "country": "South Africa",
+    "image": "/Players/Quinton de Kock.jpg",
+    "role": "Batsman",
+    "battingType": "Left-handed",
+    "bowlingType": "Right-arm medium",
+    "biddingPrice": 1400000,
+    "rating": 82
+  },
+  {
+    "playerId": 10,
+    "name": "Joe Root",
+    "country": "England",
+    "image": "/Players/Joe Root.webp",
+    "role": "Batsman",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm offbreak",
+    "biddingPrice": 1450000,
+    "rating": 84
+  },
+  {
+    "playerId": 11,
+    "name": "David Warner",
+    "country": "Australia",
+    "image": "/Players/David Warner.webp",
+    "role": "Batsman",
+    "battingType": "Left-handed",
+    "bowlingType": "Right-arm medium",
+    "biddingPrice": 1750000,
+    "rating": 85
+  },
+  {
+    "playerId": 12,
+    "name": "Mitchell Starc",
+    "country": "Australia",
+    "image": "/Players/Mitchell Starc.jpeg",
+    "role": "Bowler",
+    "battingType": "Right-handed",
+    "bowlingType": "Left-arm fast",
+    "biddingPrice": 2100000,
+    "rating": 90
+  },
+
+  {
+    "playerId": 13,
+    "name": "Rohit Sharma",
+    "country": "India",
+    "image": "/Players/Rohit.webp",
+    "role": "Batsman",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm offbreak",
+    "biddingPrice": 2100000,
+    "rating": 88
+  },
+  {
+    "playerId": 14,
+    "name": "AB de Villiers",
+    "country": "South Africa",
+    "image": "/Players/AB.webp",
+    "role": "Batsman",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm medium",
+    "biddingPrice": 2200000,
+    "rating": 91
+  },
+  {
+    "playerId": 15,
+    "name": "M.S. Dhoni",
+    "country": "India",
+    "image": "/Players/Dhoni.jpeg",
+    "role": "Batsman",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm medium",
+    "biddingPrice": 1600000,
+    "rating": 86
+  },
+  {
+    "playerId": 16,
+    "name": "Kagiso Rabada",
+    "country": "South Africa",
+    "image": "/Players/Rabada.jpeg",
+    "role": "Bowler",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm fast",
+    "biddingPrice": 1800000,
+    "rating": 89
+  }
+]
