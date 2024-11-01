@@ -23,7 +23,7 @@ const Newsletter = () => {
   return (
     <div
       className="newsletter text-black mx-auto flex flex-col justify-center gap-4 items-center bg-[#fceade] bg-cover bg-no-repeat w-full max-w-3xl h-auto p-10 rounded-2xl shadow-lg mt-20 relative z-10"
-      style={{ backgroundImage: 'url(assets/bg-shadow.png)', marginBottom: '-150px' }}
+      style={{ backgroundImage: 'url(bg-shadow.png)', marginBottom: '-150px' }}
     >
       <h2 className="text-4xl font-extrabold mb-4 text-gray-800">Subscribe to our Newsletter</h2>
       <p className="text-xl font-medium mb-6 text-gray-700">Get the latest updates and news right in your inbox!</p>

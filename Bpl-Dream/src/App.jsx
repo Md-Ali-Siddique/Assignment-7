@@ -4,7 +4,7 @@ import Banner from "./components/Banner";
 import PlayerList from "./components/PlayerList";
 import SelectedPlayers from "./components/SelectedPlayers";
 import Newsletter from "./components/Newsletter";
-import Footer from "./components/Footr";
+import Footer from "./components/Footr"; 
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 

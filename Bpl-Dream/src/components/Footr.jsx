@@ -23,7 +23,7 @@ const Footer = () => {
 
     return (
         <footer className="bg-[#00051C] gap-24 pt-48 pb-12 text-gray-400 font-semibold relative">
-            <img className='mx-auto w-36' src="/assets/logo-footer.png" alt="" />
+            <img className='mx-auto w-36' src="logo-footer.png" alt="" />
             <div className='flex justify-between lg:px-64 px-12 my-4 gap-2'>
                 <div className=''>
                     <h2 className='font-bold text-white text-lg '>About Us</h2>
