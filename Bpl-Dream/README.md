@@ -1,5 +1,4 @@
 # BPL DREAM 11
-﻿# Md-Ali-Siddiki
 
 ## Description
 A React-based application to select and manage cricket players for your dream team.
